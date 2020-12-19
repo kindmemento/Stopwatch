@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  margin-top: 200px;
+}
+
+#time {
+  font-size: 6em;
+  font-weight: 10;
+}
+
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.start {
+  font-size: xx-large;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.reset {
+  font-size: xx-large;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
